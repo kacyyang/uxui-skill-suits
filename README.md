@@ -115,7 +115,7 @@ skill-name/
 |-------|--------|--------|
 | Phase 0 | web-layout-guide | Complete |
 | Phase 1 | color-system, typography-system, grid-spacing-system | Complete |
-| Phase 2 | motion-system, component-patterns, form-design, content-design | Planned |
+| Phase 2 | motion-system, component-patterns, form-design, content-design | Complete |
 | Phase 3 | accessibility, privacy-compliance, ux-audit, design-system-ops | Planned |
 
 ## Design Decisions
@@ -137,4 +137,4 @@ MIT
 
 ## Author
 
-Kacy Yang - UX Designer & Team Lead, Web UX Design
+Kacy Yang - design@kacyyang.com
