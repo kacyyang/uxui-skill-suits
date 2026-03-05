@@ -137,4 +137,4 @@ MIT
 
 ## Author
 
-Kacy Yang - design@kacyyang.com
+Kacy Yang 
